@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1673187661 source:c:\users\dhafa\downloads\c++\tubes_std\main.cpp
+	"perusahaan.h"
+
+1673113670 c:\users\dhafa\downloads\c++\tubes_std\perusahaan.h
+	<iostream>
+
+1673682898 source:c:\users\dhafa\downloads\c++\tubes_std\perusahaan.cpp
+	"perusahaan.h"
+
+1673187662 source:c:\users\dhafa\downloads\tubes_std\main.cpp
+	"perusahaan.h"
+
+1673113672 c:\users\dhafa\downloads\tubes_std\perusahaan.h
+	<iostream>
+
+1673682900 source:c:\users\dhafa\downloads\tubes_std\perusahaan.cpp
+	"perusahaan.h"
+
